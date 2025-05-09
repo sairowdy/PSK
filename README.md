@@ -113,4 +113,5 @@ The experiment on Phase Shift Keying (PSK) modulation and demodulation was succe
 
 # Hardware experiment output waveform.
 
+![WhatsApp Image 2025-05-09 at 18 57 15_543db8ce](https://github.com/user-attachments/assets/011957c6-7867-4467-bc4d-904ea97af39e)
 
